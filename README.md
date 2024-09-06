@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm just a simple daddy in the endless struggle to learn about myself, my family, fun, tech, games, the world and everything else there is.
+I'm just a person in an endless journey to learn about myself, my family, fun, tech, games, the world and everything else there is.
 
 <!--
 **sebber/sebber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
